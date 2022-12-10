@@ -80,8 +80,6 @@ h3 {
     color: #01B075;
 
     transition: background-color ease-in-out 0.2s;
-
-    target: "_blank";
 }
 
 .socials__link:hover {
