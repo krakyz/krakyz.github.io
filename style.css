@@ -112,6 +112,11 @@ a {
     color: #6D6D6D;
 }
 
+.disclaimer {
+    display: block;
+    margin-bottom: 8px;
+    color: #6D6D6D;
+}
 
 
 .category {
